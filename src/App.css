@@ -1,0 +1,10 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background-color: rgb(192, 187, 187);
+}
+#name1:hover{
+  text-decoration: underline;
+}
